@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hello!
+I'm a 2nd year computer engineer student at PUC Paraná<br/>
+I also enjoy making art in my spare time!<br/>
+I'm currently learning the ins and outs of github for some projects and wiki editing<br/>
+Pronouns: he/him
+### Contacts
+my emails: rafacostapacheco@gmail.com or pacheco.costa@pucpr.edu.br<br/>
+my discord username: <ins>enderlands</ins><br/><br/>
+[<sub>very secret link</sub>](https://youtu.be/dQw4w9WgXcQ?si=ruvzIskL6fpgT-k9)
 
 <!--
 **Enderlandz/Enderlandz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
